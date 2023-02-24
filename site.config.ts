@@ -14,12 +14,9 @@ export default siteConfig({
   author: 'Zofia',
 
   // open graph metadata (optional)
-  description: '欢迎来到加一时刻',
+  description: 'welcome',
 
   // social usernames (optional)
-  b站: '加一时刻',
-  小红书: '加一时刻',
-  公众号: '加一时刻',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
